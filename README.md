@@ -8,6 +8,9 @@ Developer in training at Makers Academy, fresh to the field of coding and keen t
 
 Developed the ability to research complex topics, break them down and present the ideas in easily digested form, without compromising or dumbing down the key issues. This skill is imperative to a career in science, and is one which I developed considerably while studying at the University of Liverpool. 
 
+#### Independent Learning and Research
+I'm intensely curious about almost anything, and spend the majority of my spare time reading non-fiction and trying to be gradually less wrong about the world, in particular about how systems come together.
+
 ## Education
 
 #### Makers Academy (January - March 2017)
