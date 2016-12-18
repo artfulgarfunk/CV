@@ -5,14 +5,13 @@ Developer in training at Makers Academy, fresh to the field of coding and keen t
 ## Skills
 
 #### Communication/Presentation Ability
-
-Developed the ability to research complex topics, break them down and present the ideas in easily digested form, without compromising or dumbing down the key issues. This skill is imperative to a career in science, and is one which I developed considerably while studying at the University of Liverpool. 
+I have the ability to research complex topics, break them down and present the ideas in easily digested form, without compromising or dumbing down the key issues. This skill is imperative to a career in science, and is one which I furthered considerably while studying at the University of Liverpool. 
 
 #### Independent Learning and Research
 I'm intensely curious about almost anything, and spend the majority of my spare time reading non-fiction and trying to be gradually less wrong about the world, in particular about how systems come together.
 
 #### Problem Solving Under Pressure
-At my last job as an AV technician I was frequently put on the spot during an event to both assuage the client and deal with a technical issue, the natue of which was often entirely novel. This developed a good sense for dealing with stressed customers, as well as a confidence in my own ability to rapidly and calmly take stock, prioritise, and take decisive action. 
+During my last job as an AV technician I was frequently put on the spot during an event to both assuage the client and deal with a technical issue, the natue of which was often entirely novel. This developed a good sense for dealing with stressed customers, as well as a confidence in my own ability to rapidly and calmly take stock, prioritise, and take decisive action. 
 
 ## Education
 
