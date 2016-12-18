@@ -1,48 +1,34 @@
-## Your Name
+## Jack Henderson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Developer in training at Makers Academy, fresh to the field of coding and keen to make my mark. My ideal job would be as a Full Stack Junior Developer as part of an organisation that has a data-driven approach to helping the world, embracing innovation and wholly freed from stuffy tradition. I wish to be constantly challenged and never to hear the phrase "that's just the way things are done around here" again. 
 
 ## Skills
 
-#### This Skill
+#### Communication/Presentation Ability
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Developed the ability to research complex topics, break them down and present the ideas in easily digested form, without compromising or dumbing down the key issues. This skill is imperative to a career in science, and is one which I developed considerably while studying at the University of Liverpool. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
+#### Makers Academy (January - March 2017)
+- Currently studying at one of the most prestigious code bootcamps in Europe. 
+- Ability to independently learn and solve diverse problems across mutliple technologies
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University of Liverpool (September 2011 - July 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- Zoology
+- 2:1
+- I focused on evolutionary ecology, poopulation dynamics and behavioural ecology, and wrote my dissertation on the phenotypic plasticity of the Venus Fly Trap, testing the viability of carnivory as an evolutionary strategy.
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**AVC Live** (November 2015 - October 2016)    
+*AV Technician*  
+**Madeleine Cafe** (July - November 2016)   
+*Barista*  
+**Salt House Tapas** (June 2014 - January 2015)
+*Waiter/Bartender*
