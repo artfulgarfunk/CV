@@ -11,6 +11,9 @@ Developed the ability to research complex topics, break them down and present th
 #### Independent Learning and Research
 I'm intensely curious about almost anything, and spend the majority of my spare time reading non-fiction and trying to be gradually less wrong about the world, in particular about how systems come together.
 
+#### Problem Solving Under Pressure
+At my last job as an AV technician I was frequently put on the spot during an event to both assuage the client and deal with a technical issue, the natue of which was often entirely novel. This developed a good sense for dealing with stressed customers, as well as a confidence in my own ability to rapidly and calmly take stock, prioritise, and take decisive action. 
+
 ## Education
 
 #### Makers Academy (January - March 2017)
