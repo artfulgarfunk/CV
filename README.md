@@ -50,8 +50,7 @@ Intensive three month software engineering bootcamp, honing the following skills
 
 ## Experience
 
-AV Technician Nov 2015 – Oct 2016
-AVC Live, Intercontinental 02, London
+**AV Technician** for **AVC Live**, Intercontinental 02, London Nov 2015 - Oct 2016
 
 In-house technician at a flagship AVC venue, with the largest pillarless hotel ballroom in Europe. My duties involved the following:
 - Configuration, operation and troubleshooting multiple technologies for various audio and video systems during live - events including projectors, mixing desks, multiple microphones, speakers, video switchers and recorders
