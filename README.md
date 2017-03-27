@@ -32,7 +32,7 @@ Intensive three month software engineering bootcamp, honing the following skills
 - Behaviour driven development
 - Pair programming
 - Agile methodologies and XP values
-- Rapid uptake and implementation of new technologies
+- Rapid uptake and implementation of new technologiesc
 
 #### University of Liverpool (September 2011 - July 2015)
 
