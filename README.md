@@ -37,7 +37,7 @@ Intensive three month software engineering bootcamp, honing the following skills
 #### University of Liverpool (September 2011 - July 2015)
 
 - BSc. Zoology (2:1)
-- I focused on evolutionary ecology, evolutionary psycology, population dynamics and behavioural ecology, and wrote my dissertation on the phenotypic plasticity of the Venus Fly Trap, testing the viability of carnivory as an evolutionary strategy.
+- I focused on evolutionary ecology, evolutionary psychology, population dynamics and behavioural ecology, and wrote my dissertation on the phenotypic plasticity of the Venus Fly Trap, testing the viability of carnivory as an evolutionary strategy.
 
 ## Interests
 - Generally picking up random skills: building a custom PC, memorizing a pack of cards, learning new juggling patterns, solving a Rubik's Cube in less than three minutes, playing chess etc.
@@ -50,9 +50,21 @@ Intensive three month software engineering bootcamp, honing the following skills
 
 ## Experience
 
-**AVC Live** (November 2015 - October 2016)    
-*AV Technician*  
-**Madeleine Cafe** (July - November 2016)   
-*Barista*  
-**Salt House Tapas** (June 2014 - January 2015)
-*Waiter/Bartender*
+AV Technician Nov 2015 – Oct 2016
+AVC Live, Intercontinental 02, London
+
+In-house technician at a flagship AVC venue, with the largest pillarless hotel ballroom in Europe. My duties involved the following:
+- Configuration, operation and troubleshooting multiple technologies for various audio and video systems during live - events including projectors, mixing desks, multiple microphones, speakers, video switchers and recorders
+- Helping coordinate complex logistics for multiple events
+- Taking sole responsibility for managing day to day processes throughout the hotels 12 meeting rooms
+- Being the first point of contact for hotel staff and clients with any technological issues
+- Liaising with external clients, hotel security, marketing and events departments.
+
+### Other work experience
+- Barista at Madeleine Café					                          (June 2015-Nov 2015)
+- Waiter and Bartender at Salt House Tapas		                (Sep 2014-Jan 2015)
+- Bartender at the Richmond Hotel and Pub		                  (Jun-Aug 2013)
+- Bartender at Studio 2 Bar and Restaurants			              (Jun-Aug 2012)
+- Tour Guide, Townsville Rickshaw Tours                    		(May-July 2011)
+- Boat design and refurbishment at Munster Marine        			(Jan-Mar 2011)
+- Technician and Sales Assistant at Computers 4 U        			(Mar 2008-Sept 2009)
