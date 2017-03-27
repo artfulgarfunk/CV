@@ -8,8 +8,8 @@ My greatest strength is boundless curiosity and slight obsessiveness. I read bro
 
 Project | Description | Technologies
 ------------ | ------------- | -------------
-[PainLess] (https://github.com/artfulgarfunk/final_project)| An app for those who suffer from chronic conditions such as Arthritis and IBS. Users track daily what they eat, how much they exercise and how severe their pain is. The app can help identify potential triggers, i.e. food which exacerbates their symptoms. The team focused on following agile methodologies and test driven development to the letter to perfect these skills. | Ruby on Rails, PostgreSQL, Javascript, Chart JS, Capybara, Cucumber, Devise, Rspec, Haml, HTML, CSS
-Instagram (https://github.com/artfulgarfunk/instagram-clone)| An Instagram clone where users can create an account, add photos and leave comments, as well as edit their own uploads. This was my first individual Ruby on Rails project. |Ruby on Rails, PostgreSQL, Capybara, Devise, Rspec, Haml, HTML, CSS
+[PainLess](https://github.com/artfulgarfunk/final_project) | An app for those who suffer from chronic conditions such as Arthritis and IBS. Users track daily what they eat, how much they exercise and how severe their pain is. The app can help identify potential triggers, i.e. food which exacerbates their symptoms. The team focused on following agile methodologies and test driven development to the letter to perfect these skills. | Ruby on Rails, PostgreSQL, Javascript, Chart JS, Capybara, Cucumber, Devise, Rspec, Haml, HTML, CSS
+Instagram(https://github.com/artfulgarfunk/instagram-clone) | An Instagram clone where users can create an account, add photos and leave comments, as well as edit their own uploads. This was my first individual Ruby on Rails project. |Ruby on Rails, PostgreSQL, Capybara, Devise, Rspec, Haml, HTML, CSS
 
 ## Skills
 
