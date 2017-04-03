@@ -14,7 +14,7 @@ Project | Description | Technologies | Struggles | Successes
 ## Skills
 
 #### Communication
-I have a well-honed ability to research complex topics, break them down and present the ideas in easily digested form. I am often called articulate and enjoy the process of distilling a complex issue down to it's core components, particularly in a good debate.
+I have a well-honed ability to research complex topics, break them down and present the ideas in easily digested form. I am often called articulate and enjoy the process of distilling a complex issue down to its core components, particularly in a good debate.
 
 #### Rapid Independent Learning
 I'm intensely curious about almost anything, and spend much of my spare time reading non-fiction and striving to be less wrong about the world, especially ethics, evolution, neuropsychology and systems of behaviour.
