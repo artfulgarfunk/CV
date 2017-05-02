@@ -6,10 +6,10 @@ My greatest strength is boundless curiosity and slight obsessiveness. I read bro
 
 ## Projects
 
-Project | Description | Technologies | Struggles | Successes | Demo
------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[PainLess](https://github.com/artfulgarfunk/final_project) | An app for those who suffer from chronic conditions such as Arthritis and IBS. Users track daily what they eat, how much they exercise and how severe their pain is. The app can help identify potential triggers, i.e. food which exacerbates their symptoms. The team focused on following agile methodologies and test driven development to the letter to perfect these skills. | Ruby on Rails, PostgreSQL, Javascript, Chart JS, Capybara, Cucumber, Devise, Rspec, Haml, HTML, CSS | Integrating JS library with Rail. Time constraints. Creating the initial design proved a lengthy but worthwhile process. | In a short space of time we managed to successfully test drive the whole project and achieve an impressive 100% test coverage. | Pending
-[Instagram](https://github.com/artfulgarfunk/instagram-clone) | An Instagram clone where users can create an account, add photos and leave comments, as well as edit their own uploads. This was my first individual Ruby on Rails project. |Ruby on Rails, PostgreSQL, Capybara, Devise, Rspec, Haml, HTML, CSS, Paperclip | Working with Devise for user accounts and understanding database relations. Testing Paperclip image uploads with Rspec. | I got great satisfaction from making a fully functional project in essentially one weekend. | [InstaClone](https://secret-meadow-65953.herokuapp.com/)
+Project | Description | Technologies | Demo
+------------ | ------------- | ------------- | ------------- |
+[PainLess](https://github.com/artfulgarfunk/final_project) | An app for those who suffer from chronic conditions such as Arthritis and IBS. Users track daily what they eat, how much they exercise and how severe their pain is. The app can help identify potential triggers, i.e. food which exacerbates their symptoms. The team focused on following agile methodologies and test driven development to the letter to perfect these skills. | Ruby on Rails, PostgreSQL, Javascript, Chart JS, Capybara, Cucumber, Devise, Rspec, Haml, HTML, CSS | Pending
+[Instagram](https://github.com/artfulgarfunk/instagram-clone) | An Instagram clone where users can create an account, add photos and leave comments, as well as edit their own uploads. This was my first individual Ruby on Rails project, built in essentially one weekend. |Ruby on Rails, PostgreSQL, Capybara, Devise, Rspec, Haml, HTML, CSS, Paperclip | [InstaClone](https://secret-meadow-65953.herokuapp.com/)
 
 ## Skills
 
