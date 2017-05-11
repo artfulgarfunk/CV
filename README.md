@@ -17,7 +17,7 @@ Project | Description | Technologies | Demo
 I am often called articulate and enjoy the process of distilling a complex issue down to its core components, particularly in a good debate.
 
 #### Teamwork
-Through extensive experience working in groups and a fairly social nature, I am comfortable and confident in such a setting and find it an excellent accelerator of learning. I enjoy the challenge of defining the
+Through extensive experience working in groups and a fairly social nature, I am comfortable and confident in such a setting and find it an excellent accelerator of learning. I enjoy the challenge of defining a problem and working through with colleagues. 
 
 #### Rapid Independent Learning
 I'm intensely curious about almost anything, and spend much of my spare time reading non-fiction and trying to be less wrong about the world, especially ethics, evolution and psychology.
