@@ -72,6 +72,6 @@ In-house technician at a flagship AVC venue, with the largest pillarless hotel b
 - Technician and Sales Assistant at Computers 4 U        			(Mar 2008-Sept 2009)
 
 ### Contact
-07482604970
-92jackhenderson@gmail.com
-LinkedIn[https://www.linkedin.com/in/jack-henderson-9408b0101/]
+- 07482604970
+- 92jackhenderson@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jack-henderson-9408b0101/)
