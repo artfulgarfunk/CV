@@ -17,7 +17,7 @@ Project | Description | Technologies | Demo
 I am often called articulate and enjoy the process of distilling a complex issue down to its core components, particularly in a good debate.
 
 #### Teamwork
-Through extensive experience working in groups and a fairly social nature, I am comfortable and confident in such a setting and find it an excellent accelerator of learning. I enjoy the challenge of defining a problem and working through with colleagues. 
+Through extensive experience working in groups and a fairly social nature, I am comfortable and confident in such a setting and find it an excellent accelerator of learning. I enjoy the challenge of defining a problem and working through with colleagues.
 
 #### Rapid Independent Learning
 I'm intensely curious about almost anything, and spend much of my spare time reading non-fiction and trying to be less wrong about the world, especially ethics, evolution and psychology.
@@ -70,3 +70,8 @@ In-house technician at a flagship AVC venue, with the largest pillarless hotel b
 - Tour Guide, Townsville Rickshaw Tours                    		(May-July 2011)
 - Boat design and refurbishment at Munster Marine        			(Jan-Mar 2011)
 - Technician and Sales Assistant at Computers 4 U        			(Mar 2008-Sept 2009)
+
+### Contact
+07482604970
+92jackhenderson@gmail.com
+LinkedIn[https://www.linkedin.com/in/jack-henderson-9408b0101/]
