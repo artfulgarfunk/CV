@@ -9,7 +9,7 @@ My greatest strength is boundless curiosity and slight obsessiveness. I read bro
 Project | Description | Technologies | Demo
 ------------ | ------------- | ------------- | ------------- |
 [PainLess](https://github.com/artfulgarfunk/final_project) | An app for those who suffer from chronic conditions such as Arthritis and IBS. Users track daily what they eat, how much they exercise and how severe their pain is. The app can help identify potential triggers, i.e. food which exacerbates their symptoms. The team focused on following agile methodologies and test driven development to the letter. Integrating a JS library proved a struggle, along with time constraints but we achieved an impressive 100% test coverage. | Ruby on Rails, PostgreSQL, Javascript, Chart JS, Capybara, Cucumber, Devise, Rspec, Haml, HTML, CSS | Pending
-[Instagram](https://github.com/artfulgarfunk/instagram-clone) | An Instagram clone where users can create an account, add photos and leave comments, as well as edit their own uploads. Testing image upload proved particularly tricky, however this was my first individual Ruby on Rails project. I'm pleased with how it came together after being built in essentially one weekend. |Ruby on Rails, PostgreSQL, Capybara, Devise, Rspec, Haml, HTML, CSS, Paperclip | [InstaClone](https://secret-meadow-65953.herokuapp.com/)
+[InstaClone](https://github.com/artfulgarfunk/instagram-clone) | An Instagram clone where users can create an account, add photos and leave comments, as well as edit their own uploads. Testing image upload proved particularly tricky, however this was my first individual Ruby on Rails project. I'm pleased with how it came together after being built in essentially one weekend. |Ruby on Rails, PostgreSQL, Capybara, Devise, Rspec, Haml, HTML, CSS, Paperclip | [InstaClone](https://secret-meadow-65953.herokuapp.com/)
 
 ## Skills
 
@@ -23,7 +23,7 @@ Through extensive experience working in groups and a fairly social nature, I am 
 I'm intensely curious about almost anything, and spend much of my spare time reading non-fiction and trying to be less wrong about the world, especially ethics, evolution and psychology.
 
 #### Problem Solving Under Pressure
-During my last job as an AV technician I was frequently put on the spot during an event to both assuage the client and deal with a technical issue, the nature of which was often entirely novel. This developed a good sense for dealing with stressed customers, as well as a confidence in my own ability to calmly take stock, prioritise, and take decisive action.
+During my last job as an AV technician I was frequently put on the spot during an event to both assuage the client's concerns and deal with a technical issue, the nature of which was often entirely novel. This developed a good sense for client interaction, as well as a confidence in my own ability to calmly take stock, prioritise, and take decisive action.
 
 ## Education
 
