@@ -1,6 +1,6 @@
 ## Jack Henderson
 
-I'm a **full stack junior web developer** and recent graduate of Europe's #1, highly selective software development bootcamp: [Makers Academy](http://makersacademy.com). I'm looking for a challenging role with an exciting team where I can contribute to crafting **beautiful and functional** code.
+I'm a **full stack junior developer** and recent graduate of Europe's #1, highly selective software development bootcamp: [Makers Academy](http://makersacademy.com). I'm looking for a challenging role with an exciting team where I can contribute to crafting **beautiful and functional** code.
 
 My greatest strength is boundless curiosity and slight obsessiveness. I read broadly and voraciously, and spent several months learning to code for fun before considering it as a career. I have a proven ability to rapidly pick up new concepts and apply them. I studied Zoology and find evolution of particular interest, and I love to see the design of code develop from the consistent application of best practices as per the Emergent Design Principle.
 
