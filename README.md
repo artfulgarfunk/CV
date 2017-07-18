@@ -32,7 +32,6 @@ Intensive three month software engineering bootcamp, honing the following skills
 
 - Object Oriented Design
 - Test driven development
-- Behaviour driven development
 - Pair programming
 - Agile methodologies and XP values
 - Rapid uptake and implementation of new technologies
