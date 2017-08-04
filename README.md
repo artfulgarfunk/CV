@@ -5,7 +5,7 @@ I'm a **full stack junior developer** and recent graduate of Europe's #1, highly
 My greatest strength is boundless curiosity and slight obsessiveness. I read broadly and voraciously, and spent several months learning to code for fun before considering it as a career. I have a proven ability to rapidly pick up new concepts and apply them. I studied Zoology and find evolution of particular interest, and I love to see the design of code develop from the consistent application of best practices as per the Emergent Design Principle.
 
 ## Projects
-I have many more projects on the go in a variety of languages and frameworks (Python & Django, JavaScript & React/Node, PHP & Laravel, Ruby & Ruby-on-Rails) Check out my [Github](https://github.com/artfulgarfunk) to see what I'm working on now.
+I have many more projects on the go in a variety of languages and frameworks (Python & Django, JavaScript & React/Node, PHP & Laravel, Ruby & Ruby-on-Rails). Check out my [Github](https://github.com/artfulgarfunk) to see what I'm working on now.
 
 Project | Description | Technologies | Demo
 ------------ | ------------- | ------------- | ------------- |
